@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Edwin Restrepo</h1>
+<h3 align="center">A passionate frontend/backend developer from Colombia</h3>
 ![](FOCUS.png)
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
@@ -6,13 +8,10 @@
 [![Git](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://git-scm.com/)
 [![Git](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://git-scm.com/)
 
-<body>
-  <a href="https://www.linkedin.com/in/kpdmadhuka/"><i class="fab fa-linkedin-in"></i></a>
-</body>
+<a href="https://linkedin.com/in/edwin o. restrepo m." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin o. restrepo m." height="30" width="40" /></a>
 
 
-<h1 align="center">Hi 👋, I'm Edwin Restrepo</h1>
-<h3 align="center">A passionate frontend/backend developer from Colombia</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

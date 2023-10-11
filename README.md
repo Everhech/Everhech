@@ -12,7 +12,7 @@
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFw-0Le98c&#x2F;watch?utm_content=DAFw-0Le98c&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">FOCUS</a> by Edwin Restrepo
- <img alt = "Prueba" src = "FOCUS.png">
+ <img alt = "Prueba" src = "[FOCUS.png](https://github.com/Everhech/Everhech/blob/7d4be337ed55af001bee53ea936393ba021aff0a/FOCUS.png)">
 </picture>
 
 

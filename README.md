@@ -1,6 +1,6 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Edwin Restrepo</h1>
 <h3 align="center">A passionate frontend/backend developer from Colombia</h3>
+
 ![](FOCUS.png)
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)

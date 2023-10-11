@@ -12,7 +12,7 @@
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFw-0Le98c&#x2F;watch?utm_content=DAFw-0Le98c&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">FOCUS</a> by Edwin Restrepo
- <img alt = "Prueba" src = "[[https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFw-0Le98c&#x2F;watch?utm_content=DAFw-0Le98c&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link](https://www.canva.com/design/DAFw-0Le98c/watch)](https://www.canva.com/design/DAFw-0Le98c/watch)">
+ <img alt = "Prueba" src = "https://www.canva.com/design/DAFw-0Le98c/watch">
 </picture>
 
 

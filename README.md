@@ -15,6 +15,8 @@
  <img alt = "Prueba" src = "https://github.com/Everhech/Everhech/blob/7d4be337ed55af001bee53ea936393ba021aff0a/FOCUS.png">
 </picture>
 
+![](FOCUS.png)
+
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 
 
